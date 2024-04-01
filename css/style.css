@@ -18,3 +18,12 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+a {
+  text-decoration: none;
+  color: #0ca8b9;
+}
+
+a:hover {
+  text-decoration: underline;
+}
